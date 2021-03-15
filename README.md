@@ -1,0 +1,4 @@
+# YOLO
+This is an interactive website design using js and d3.
+
+The web application I want to design is called “YOLO” (you only live once). It allows users use mouse to interact with the screen. When the user open the app, they can choose the background of screen, and when they move the mouse. A circle with random color will be generated and gradually become larger and with decreasing opacity. People live in the information era. Their daily lives always fulfill the news and their brain may never stop thinking. Also, the fast speed life makes everyone under pressure, So, a lot of them don’t take break in the day. I hope users who use this web app could have their own ”time in daze” to do something meaningless but pleasure. We all live once, so don’t waste any time you have – but take some rest to free your mind.
